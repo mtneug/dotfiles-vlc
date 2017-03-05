@@ -1,4 +1,6 @@
 *
+!/.gitignore.d
+!/.gitignore.d/dotfiles-vlc
 !/Library
 !/Library/Preferences
 !/Library/Preferences/org.videolan.vlc
